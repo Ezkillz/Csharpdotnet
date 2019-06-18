@@ -19,6 +19,17 @@ namespace PoCos
             myCar.NumberofDoors;
 
             //Console.WriteLine(myCar.model , " " ,  )
+            class Drivers
+        {
+            public String fullname();
+            public String gender();
+            public String LicensNumber();
+        }
+        getFullName()
+        {
+            
+        }
+            //
 
             car yourCar = new car();
 
